@@ -31,4 +31,4 @@ Este proyecto está configurado para ser desplegado automáticamente en GitHub P
 
 ## Contribuciones
 
-Siéntete libre de clonar, modificar y mejorar este proyecto. ¡Es un ejemplo simple para empezar!
+Siéntete libre de clonar, modificar y mejorar este proyecto. ¡Es un ejemplo simple para empezar! 
